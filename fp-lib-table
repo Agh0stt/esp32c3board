@@ -1,10 +1,4 @@
 (fp_lib_table
-  (lib (name "ProtoFlow_Parts")(type "KiCad")(uri "${KIPRJMOD}/ProtoFlow_Parts.pretty")(options "")(descr "Parts imported by ProtoFlow"))
-  (lib
-    (name "ProtoFlow.pretty")
-    (type "KiCad")
-    (uri "${KIPRJMOD}/ProtoFlow.pretty")
-    (options "")
-    (descr "ProtoFlow Project Footprints (Portable)")
-  )
+  (lib (name "esp32c3board_parts")(type "KiCad")(uri "${KIPRJMOD}/esp32c3board_parts.pretty")(options "")(descr "Project parts"))
+  (lib (name "esp32c3board")(type "KiCad")(uri "${KIPRJMOD}/esp32c3board.pretty")(options "")(descr "Project footprints"))
 )
